@@ -1,0 +1,37 @@
+#Job Request Form
+[color=#424990]██████████████████████████████████████████[/color][color=#424990]█▄ █ ▀█▀     
+█ ▀█     █   [bold] [head=1] [/head]Occupation Change Form
+[color=#424990]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[italic][color=#aaaaaa]*please fill in all fields and boxes.[/italic][/color]
+
+[color=#3d3e43]◌ NAME: [/color]   [italic][color=#8a2525]INSERT NAME HERE[/color][/italic]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ AGE: [/color][italic]         [color=#8a2525]INSERT AGE HERE[/color][/italic]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ SEX:         
+     \[  ] Male  \[  ] Female
+     \[ ] Prefer not to say  \[○] Other :  [color=#8a2525]Fill if applicable[/color][/italic]
+                                                             
+                                                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold][color=#3d3e43]◌ CURRENT EMPLOYMENT: [/color][italic]   [color=#8a2525]INSERT OCCUPATION HERE[/color][/italic]
+                                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ Future EMPLOYMENT: [/color][italic]   [color=#8a2525]INSERT OCCUPATION HERE[/color][/italic]
+                                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                        
+[color=#3d3e43]◌ The person/department works in/is one of
+     the following:
+     \[  ] Sci   \[  ] Engi   \[  ] Service   \[  ] Cargo   \[  ] Grey
+     \[  ] Med   \[  ] Sec   \[  ] Command   \[  ] CentComm   \[ ○ ] Other
+     Other Dept:[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold][color=#3d3e43]◌ The person/department wish to transfer to one of
+     the following:
+     \[  ] Sci   \[  ] Engi   \[  ] Service   \[  ] Cargo   \[  ] Grey
+     \[  ] Med   \[  ] Sec   \[  ] Command   \[ ○ ] Other
+     Other Dept:[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold][color=#3d3e43]◌ Please give a Reason for this change: [/color][italic]       
+      
+         [color=#8a2525]INSERT DETAILS HERE[/color][/italic]
+
+[/bold] 
+[italic][color=#aaaaaa]*In order the form to be valid, the correct stamps must be below. This form is designed to show as evidence for a formal complaint against the named individual on the form.This form is designed to provide evidence for a change in the named individual's occupation however this change may be revoked within valid circumstances and reasoning.

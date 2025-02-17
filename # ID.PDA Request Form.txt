@@ -1,0 +1,40 @@
+# ID/PDA Replacement Form
+[color=#424990]██████████████████████████████████████████[/color][color=#424990]█▄ █ ▀█▀     
+█ ▀█     █   [bold] [head=1] [/head]Lost Identification/PDA Replacement Form
+[color=#424990]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+[italic][color=#aaaaaa]*please fill in all fields and boxes.[/italic][/color]
+
+[color=#3d3e43]◌ NAME: [/color]   [italic][color=#8a2525]INSERT NAME HERE[/color][/italic]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ AGE: [/color][italic]         [color=#8a2525]INSERT AGE HERE[/color][/italic]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ SEX:         
+     \[  ] Male  \[  ] Female
+     \[ ] Prefer not to say  \[○] Other :                                   
+                                                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+  
+[color=#3d3e43]◌ CURRENT JOB: [/color][italic]    [color=#8a2525]INSERT OCCUPATION HERE[/color][/italic]
+                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+                   
+[bold][color=#3d3e43]◌ The person/department works in/is
+     the following:
+     \[  ] Sci    \[  ] Engi \[  ] Service        \[  ] Cargo            \[  ] Grey
+     \[  ] Med \[  ] Sec   \[  ] Command \[ ○ ] Other
+     Other Dept:[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ Reason for lost ID/PDA:         
+     \[  ] Theft  
+     \[  ] Misplacement of property/ personal negligence
+     \[ ] Illegal Gambling  
+     \[ ] Prefer not to say [color=#aaaaaa][italic]this is an invalid reason[/color][/italic] 
+     \[○] Other :
+    [color=#8a2525]Fill if applicable[/color][/italic]
+ 
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+  [bold]
+[bold][color=#3d3e43]◌ How many times has your Identification or PDA been 
+    lost?:
+     \[ ◌ ] 0   \[  ] 1   \[  ] 2   \[  ] 3   \[  ] 4   \[  ] 5
+[/bold]
+[italic][color=#aaaaaa]*Inorder the form to be valid, the form must be viewed by your Head of Personnel and approved. If an ID or PDA has been lost over two times, you will need be questioned and submitted for NanoTrasen Psycological evaluation.This form is designed to provide evidence for gaining a new ID or PDA however these may be revoked within valid circumstances and reasoning.

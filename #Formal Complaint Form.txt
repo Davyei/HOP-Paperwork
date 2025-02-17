@@ -1,0 +1,39 @@
+#Formal Complaint Form
+[color=#424990]██████████████████████████████████████████[/color][color=#424990]█▄ █ ▀█▀     
+█ ▀█     █   [bold] [head=1] [/head]Formal Complaint Form
+[color=#424990]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+[italic][color=#aaaaaa]*please fill in all fields and boxes.[/italic][/color]
+
+[color=#3d3e43]◌ NAME: [/color]   [italic][color=#8a2525]INSERT NAME HERE[/color][/italic]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ AGE: [/color][italic]         [color=#8a2525]INSERT AGE HERE[/color][/italic]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ SEX:         
+     \[  ] Male  \[  ] Female
+     \[ ] Prefer not to say  \[○] Other :                                                              
+                                                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                     
+[color=#3d3e43]◌ The person/department works in/is one of
+     the following:
+     \[  ] Sci   \[  ] Engi   \[  ] Service   \[  ] Cargo   \[  ] Grey
+     \[  ] Med   \[  ] Sec   \[  ] Command   \[  ] CentComm   \[ ○ ] Other
+     Other Dept:[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+[bold][color=#3d3e43]◌ RECIPIENT NAME: [/color]   [italic][color=#8a2525]INSERT NAME HERE[/color][/italic]
+                                      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold][color=#3d3e43]◌ Is the recipient aware of this complaint?
+\[ ] Yes       \[ ] No         [/color]
+
+[color=#3d3e43]◌ The recipient/department works in/is one of
+     the following:
+     \[  ] Sci   \[  ] Engi   \[  ] Service   \[  ] Cargo    \[  ] Grey
+     \[  ] Med   \[  ] Sec   \[  ] Command   \[ ○ ] Other
+     Other Dept:[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+[bold][color=#3d3e43]◌ Please provide the complaint below: [/color][italic]       
+      
+         [color=#8a2525]INSERT COMPLAINT HERE[/color][/italic]
+
+[/bold]
+
+[italic][color=#aaaaaa]*In order the form to be valid, the correct stamps must be below. This form is designed to show as evidence for a formal complaint against the named recipient on the form and can be used for evidence in the case NanoTrasen deems the recipient's employment is to be questioned.

@@ -1,0 +1,32 @@
+# Gambling Form
+[color=#424990]██████████████████████████████████████████[/color][color=#424990]█▄ █ ▀█▀     
+█ ▀█     █   [bold] [head=1] [/head]Gambling Form
+[color=#424990]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[italic][color=#aaaaaa]*please fill in all fields and boxes.[/italic][/color]
+
+[color=#3d3e43]◌ NAME: [/color]   [italic][color=#8a2525]INSERT NAME HERE[/color][/italic]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ AGE: [/color][italic]         [color=#8a2525]INSERT AGE HERE[/color][/italic]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ SEX:         
+     \[  ] Male  \[  ] Female
+     \[ ] Prefer not to say  \[○] Other :                                   
+                                                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+  
+[color=#3d3e43]◌ CURRENT JOB: [/color][italic]    [color=#8a2525]INSERT OCCUPATION HERE[/color][/italic]
+                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+                   
+[bold][color=#3d3e43]◌ The person/department works in/is
+     the following:
+     \[  ] Sci   \[  ] Cargo     \[  ] Grey    \[  ] Command
+     \[ ○ ] Other
+     Other Dept:[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+  [bold]
+[bold][color=#3d3e43]◌ Between 0-5, how likely are you to make a profit?
+    
+     \[ ◌ ] 0   \[  ] 1   \[  ] 2   \[  ] 3   \[  ] 4   \[  ] 5
+[italic][color=#aaaaaa]*0 being no returns & 5 being the most possible.[/italic][/color]
+
+[/bold]
+[italic][color=#aaaaaa]*Inorder the form to be valid, the form must be viewed by your Head of Personnel and approved. Failure to provide monetary gain from this may result in immediate demotion or dismissal without severance pay, you will also need be questioned and submitted for NanoTrasen Psycological evaluation.This form is designed to allow people to combat their addictions.

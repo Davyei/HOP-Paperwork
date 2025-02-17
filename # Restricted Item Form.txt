@@ -1,0 +1,29 @@
+# Restricted Items Form
+[color=#424990]██████████████████████████████████████████[/color][color=#424990]█▄ █ ▀█▀     
+█ ▀█     █   [bold] [head=1] [/head]Restricted Items Form
+[color=#424990]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[italic][color=#aaaaaa]*please fill in all fields and boxes.[/italic][/color]
+
+[color=#3d3e43]◌ NAME: [/color]   [italic][color=#8a2525]INSERT NAME HERE[/color][/italic]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ AGE: [/color][italic]         [color=#8a2525]INSERT AGE HERE[/color][/italic]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ SEX:         
+     \[  ] Male  \[  ] Female
+     \[ ] Prefer not to say  \[○] Other :                                   
+                                                                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+                      
+[color=#3d3e43]◌ The person/department works in/is one of
+     the following:
+     \[  ] Sci    \[  ] Engi \[  ] Service          \[  ] Cargo          \[  ] Grey
+     \[  ] Med \[  ] Sec   \[  ] Command \[  ] CentComm  \[ ○ ] Other
+     Other Dept:[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+[bold][color=#3d3e43]◌ What is the weapon?: [/color][italic]  [color=#8a2525]INSERT WEAPON NAME HERE[/color][/italic]
+                                                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾     
+[color=#3d3e43]◌ How did you come into possession of this item: [/color][italic]       
+      
+         [color=#8a2525]INSERT DETAILS HERE[/color][/italic]
+
+[/bold]
+[italic][color=#aaaaaa]*Inorder the form to be valid, the correct stamps must be below. This form is designed to provide reason for the possession of restricted items however these changes may be revoked within valid circumstances.

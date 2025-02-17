@@ -1,0 +1,58 @@
+#NanoTrasen Mandated Personnel Form
+[color=#424990]██████████████████████████████████████████[/color][color=#424990]█▄ █ ▀█▀     
+█ ▀█     █   [bold] [head=1] [/head]NanoTrasen Mandated Personnel Form
+[color=#424990]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[italic][color=#aaaaaa]*please fill in all fields and boxes.[/italic][/color]
+
+[color=#3d3e43]◌ NAME: [/color]   [italic][color=#8a2525]INSERT NAME HERE[/color][/italic]
+                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ AGE:[/color][italic]         [color=#8a2525]INSERT AGE HERE[/color][/italic][/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[italic][color=#aaaaaa]  *exclude gap years[/italic][/color] 
+[color=#3d3e43]◌ SEX:         
+     \[  ] Male  \[  ] Female
+     \[ ] Prefer not to say  \[○] Other :
+                                          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+[color=#3d3e43]◌ CURRENT JOB: [/color][italic]    [color=#8a2525]INSERT OCCUPATION HERE[/color][/italic]
+                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ PLAN FOR FUTURE
+     EMPLOYMENT:  [/color][italic][color=#8a2525]INSERT OCCUPATION HERE[/color][/italic]
+                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold][color=#3d3e43]◌ Hypothetically, If you were to commit a crime from  
+     the following:
+     \[  ] Murder   \[  ] Theft   \[  ] Terrorism   \[ ] Prefer not to say
+     \[ ○ ] Other
+     Other :[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[bold]
+[color=#3d3e43]◌ Please describe why salt is the best: [/color][italic]       
+      
+         [color=#8a2525]INSERT DETAILS HERE[/color][/italic]
+
+[/bold]
+[bold][color=#3d3e43]◌ Please pick from the following:
+     \[  ] Pepperoni   \[  ] Margherita   \[  ] Cotton   \[ ] Hawaiian
+     \[ ○ ] Other
+     Other :[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ What is your favorite corporation?
+     \[ ] NanoTrasen   \[ ] CentComm   \[ ] Smite
+     \[ ] Cybersun     \[ ] Donk Co.   \[○] Other 
+          Other:[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold][color=#3d3e43]◌ Would you be willing to donate your first born to NanoTrasen's science department?[/color]
+     \[ ] Yes   \[ ] No
+[color=#3d3e43]◌ First Born's Name:   [italic][color=#8a2525]INSERT NAME HERE[/color][/italic]
+                                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ Weh?
+\[ ] Weh!       \[ ] Hew!         [/color]
+
+[color=#3d3e43]◌ Have you answered all questions honestly?
+\[ ] Yes       \[ ] No         [/color]
+
+[color=#3d3e43]◌ Are you sure?
+\[ ] No       \[ ] Yes         [/color]
+
+[color=#3d3e43]◌ Are you really sure?
+\[ ] Yes       \[ ] No         [/color]
+
+[/bold][italic][color=#aaaaaa]*In order the form to be valid, the form must be viewed by your Head of Personnel and a CentComm Official then approved. The answers given on this form may lead to you receiving a NanoTrasen psychological evaluation. This form is designed to waste an individuals time to allow for Other personnel not to be distracted by the individual.
